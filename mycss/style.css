@@ -143,7 +143,7 @@ header {
 
 .mission {
     height: 100vh;
-    background-image: url(/img/mission.svg);
+    background-image: url(../img/mission.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -215,7 +215,7 @@ header {
 
 .form {
     height: 99vh;
-    background-image: url(../lumieco/img/7926517.svg);
+    background-image: url(../img/7926517.svg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
